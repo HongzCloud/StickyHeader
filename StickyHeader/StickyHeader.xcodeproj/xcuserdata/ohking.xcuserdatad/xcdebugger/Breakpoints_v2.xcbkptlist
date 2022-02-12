@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "291610BF-690B-4A99-B85C-87B6EC4F6754"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65F2B194-EB49-422F-9FC4-A40D48CD620D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StickyHeader/AccelerationVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65F2B194-EB49-422F-9FC4-A40D48CD620D - 10c5f081c35d569f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StickyHeader.AccelerationVC.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "StickyHeader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohking/Desktop/StickyHeader/StickyHeader/StickyHeader/AccelerationVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "65F2B194-EB49-422F-9FC4-A40D48CD620D - 10c5f081c35d569f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StickyHeader.AccelerationVC.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "StickyHeader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohking/Desktop/StickyHeader/StickyHeader/StickyHeader/AccelerationVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "534">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
